@@ -1,4 +1,4 @@
-# House Price Prediction
+# Rossman Sales Prediction
 > Rossmann is a European drug distributor which operates over 3,000 drug stores across seven European countries. For each store, the sales forecasting is taken care of by the store managers. With thousands of individual managers predicting sales based on their unique circumstances and intuitions, the accuracy of the forecasts is quite varied. To overcome this problem, we will be building a forecasting model to forecast the daily sales for any store for the next six weeks.
 
 
